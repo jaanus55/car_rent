@@ -1,0 +1,12 @@
+jaanus@debian:~$ sudo mariadb -e "SHOW DATABASES;"
++--------------------+
+| Database           |
++--------------------+
+| cr                 |
+| information_schema |
+| minuandmebaas      |
+| mysql              |
+| performance_schema |
+| sys                |
+| testdb             |
++--------------------+
